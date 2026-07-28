@@ -1,0 +1,15 @@
+,Date,Category,Region,Product,Units_sold,Unit_Price,Revenue,Average
+,01.01.25,Electronics,North,Laptop,5,50000,250000,50000
+,01.01.25,Fashion,South,T-shirt,120,500,60000,500
+,01.01.25,Home,East,Sofa,8,25000,200000,25000
+,01.02.25,Electronics,North,Phone,25,20000,500000,20000
+,01.02.25,Fashion,South,Jeans,80,1500,120000,1500
+,01.03.25,Home,East,Table,15,8000,120000,8000
+,01.03.25,Electronics,North,Tablet,12,15000,180000,15000
+,01.03.25,Fashion,West,Dress,45,3000,135000,3000
+,01.04.25,Home,East,Chair,30,2000,60000,2000
+,01.04.25,Electronics,North,Laptop,8,50000,400000,50000
+,01.04.25,Fashion,South,T-shirt,110,25000,2750000,25000
+,01.05.25,Home,West,Bed,5,55000,275000,55000
+,01.05.25,Electronics,North,Phone,20,70000,1400000,70000
+,01.05.25,Fashion,East,Jeans,95,90000,8550000,90000
