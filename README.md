@@ -1,4 +1,3 @@
-# PowerBI-Sales-Dashboard
 # Power BI Sales Performance Dashboard
  
 ## Project Overview
